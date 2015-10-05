@@ -6,7 +6,7 @@
     "key-value stores",
     "namespacing"
   ],
-  "version": "0.1.1",
+  "version": "0.1.2",
   "contributors": [
     {
       "name": "Aaron Schlesinger",
@@ -17,9 +17,9 @@
       "web": "http://github.com/squallstar"
     }
   ],
-  "author": "Aaron Schlesinger <arschles@gmail.com> (http://github.com/arschles/node-redis-namespace)",
+  "author": "Shreyas Sreenivas <shreyasns@freshdesk.com> (http://github.com/shreyasns/node-redis-namespace)",
   "bugs": {
-    "web": "http://github.com/arschles/node-redis-namespace/issues"
+    "web": "http://github.com/shreyasns/node-redis-namespace/issues"
   },
   "main": "./index.js",
   "directories": {
@@ -27,13 +27,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/arschles/node-redis-namespace.git"
+    "url": "git://github.com/shreyasns/node-redis-namespace.git"
   },
   "engines": {
     "node": ">=0.4.0"
   },
   "dependencies": {
-    "redis": "0.12.1"
+    "redis": "2.0.0"
   },
   "licenses": [
     "MIT"
